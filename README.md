@@ -1,4 +1,4 @@
-📦 Projeto SQL Básico — Sistema de Controle de Biblioteca
+ Projeto SQL Básico — Sistema de Controle de Biblioteca
 
 🏛️ 1. Descrição do Projeto
 
