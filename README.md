@@ -1,5 +1,4 @@
 # 📚 Sistema de Controle de Biblioteca — Projeto SQL Básico
-
 Este repositório apresenta um banco de dados simples para um **Sistema de Biblioteca**, criado para fins de estudo e prática de SQL.
 
 
