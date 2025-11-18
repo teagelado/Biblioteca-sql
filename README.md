@@ -49,6 +49,6 @@ Lista consultas úteis para visualização e prática.
 ---
 
 
-## 🖋️ Eduardp
+## 🖋️ Eduardo
 Projeto criado para estudos e prática em SQL.
 
