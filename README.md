@@ -1,3 +1,4 @@
+codespace-reimagined-xylophone-96wjv69w963jr9
 # 📚 Sistema de Controle de Biblioteca — Projeto SQL Básico
 Este repositório apresenta um banco de dados simples para um **Sistema de Biblioteca**, criado para fins de estudo e prática de SQL.
 
@@ -12,6 +13,8 @@ Demonstrar comandos essenciais de SQL, incluindo:
 ## 🧱 1. criar_banco.sql
 Script responsável pela criação do banco **biblioteca** e suas tabelas.
 
+
+ Projeto SQL Básico — Sistema de Controle de Biblioteca
 
 ---
 
@@ -51,4 +54,6 @@ Lista consultas úteis para visualização e prática.
 
 ## 🖋️ Eduardo
 Projeto criado para estudos e prática em SQL.
+
+ codespace-reimagined-xylophone-96wjv69w963jr9
 
